@@ -1,6 +1,6 @@
 # Prototypes
 
-All prototypes are password protected. Contact the developer or designer to get access. Many prototype repos are also published on this GitHub account.
+Some prototypes are password protected. Contact the developer or designer to get access. Many prototype repos are published on this GitHub account.
 
 Any questions about prototype work and publishing contact [Ben Holliday - Head of User Experience](mailto:ben.holliday@dwp.gsi.gov.uk).
 
