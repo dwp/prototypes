@@ -30,15 +30,15 @@ Colin Oakley & Tom Simcox
 
 Steve Borthwick
 
-### [Pension Activation](https://pure-citadel-6720.herokuapp.com)
+### [Pension Activation](http://pure-citadel-6720.herokuapp.com)
 
 Gavin Elliot
 
-### [Personal Independence Payment](pip-alpha.herokuapp.com/pip11/apply)
+### [Personal Independence Payment](http://pip-alpha.herokuapp.com)
 
 Gup Badyal
 
-### [UJ2](https://uj2-prototype.herokuapp.com)
+### [Universal Jobmatch](https://uj2-prototype.herokuapp.com)
 
 Charles Reynolds-Talbot
 
@@ -58,6 +58,6 @@ Chris Ball
 
 Richard Payne
 
-### [Real Time Information - Admin Interface] 
+### Real Time Information - Admin Interface
 
 Gup Badyal
