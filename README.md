@@ -10,31 +10,33 @@ Any questions about prototype work and publishing contact [Ben Holliday - Head o
 
 Tom Morgan & Chris Dennett
 
-### [Carer's Allowance](https://dwp-story.3cbeta.co.uk/URSept/)
+### [Apply for Carer's Allowance](https://dwp-story.3cbeta.co.uk/URSept/)
 
 Mike Tattersall & Ian Tidmarsh
 
-### Debt Repayments
+### Repay a benefits debt
 
 Krishan Veerappa
 
-### Find pension contact details
+### Find pension contact details 
+
+[Private Beta](https://www.findpensioncontacts.dwp.gov.uk/)
 
 Niall Molloy & Tom Simcox
 
-### [Report Fraud](http://rcm-prototype-c.herokuapp.com/rcm/report-benefit-fraud)
+### [Report benefit fraud](http://rcm-prototype-c.herokuapp.com/rcm/report-benefit-fraud)
 
 Colin Oakley & Tom Simcox
 
-### [State Pension](http://nisp.herokuapp.com)
+### [Check your State Pension](http://nisp.herokuapp.com)
 
 Steve Borthwick
 
-### [Pension Activation](http://pure-citadel-6720.herokuapp.com)
+### [Get your State Pension](http://pure-citadel-6720.herokuapp.com)
 
 Gavin Elliot
 
-### [Personal Independence Payment](http://pip-alpha.herokuapp.com)
+### [Apply for Personal Independence Payment](http://pip-alpha.herokuapp.com)
 
 Gup Badyal
 
