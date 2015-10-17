@@ -34,7 +34,7 @@ Steve Borthwick
 
 ### [Get your State Pension](http://pure-citadel-6720.herokuapp.com)
 
-Gavin Elliot
+Gavin Elliott
 
 ### [Apply for Personal Independence Payment](http://pip-alpha.herokuapp.com)
 
