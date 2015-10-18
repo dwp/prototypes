@@ -8,11 +8,11 @@ Any questions about prototype work and publishing contact [Ben Holliday - Head o
 
 ### [Access to Work](https://accesstowork.herokuapp.com/)
 
-Tom Morgan & Chris Dennett
+Tom Morgan & Chris Dennett / [Repo](https://github.com/dwpdigitaltech/accesstowork-prototype)
 
 ### [Apply for Carer's Allowance](https://dwp-story.3cbeta.co.uk/URSept/)
 
-Mike Tattersall & Ian Tidmarsh
+Mike Tattersall & Ian Tidmarsh / [Repo](https://github.com/dwpdigitaltech/CADSPrototypeClaim)
 
 ### Repay a benefits debt
 
@@ -55,6 +55,8 @@ Paul Coupe
 ### Small Services
 
 Chris Ball
+
+[Budgeting Loans](http://bud-loans.herokuapp.com/)
 
 ## DWP Internal Systems
 
