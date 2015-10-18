@@ -40,7 +40,7 @@ Gavin Elliott
 
 ### [Apply for Personal Independence Payment](http://pip-alpha.herokuapp.com)
 
-Gup Badyal
+Gup Badyal / [Repo](https://github.com/gup-dwp/pip-prototype)
 
 ### [Universal Jobmatch](https://uj2-prototype.herokuapp.com)
 
@@ -66,4 +66,4 @@ Richard Payne
 
 ### Real Time Information - Admin Interface
 
-Gup Badyal
+Gup Badyal [Repo](https://github.com/gup-dwp/RTI-Beta)
