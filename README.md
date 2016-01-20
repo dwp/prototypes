@@ -16,9 +16,9 @@ Mike Tattersall & Ian Tidmarsh / [Repo](https://github.com/dwpdigitaltech/CADSPr
 
 ### Repay a benefits debt
 
-Krishan Veerappa
+Krishan Veerappa / [Repo](https://github.com/MadGuerrilla/epayments)
 
-### Find pension contact details 
+### Find pension contact details
 
 [Private Beta](https://www.findpensioncontacts.dwp.gov.uk/)
 
