@@ -20,7 +20,7 @@ Paul Smith, Tom Adams & Darren Silcox [Repo](https://github.com/dwpdigitaltech/I
 
 ### Repay a benefits debt
 
-Paul Smith [Previously Krishan Veerappa] / [Repo](https://github.com/paulmsmith/epayments)
+Paul Smith [Previously Krishan Veerappa] / [Repo](https://github.com/dwpdigitaltech/epayments)
 
 ### Find pension contact details
 
