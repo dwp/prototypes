@@ -16,11 +16,11 @@ Mike Tattersall & Ian Tidmarsh / [Repo](https://github.com/dwpdigitaltech/CADSPr
 
 ### [Industrial Injuries Disablement Benefit](http://dwp-iidb-prototype.herokuapp.com/)
 
-Paul Smith / [Repo](https://github.com/paulmsmith/dwp_iidb_prototype)
+Paul Smith, Tom Adams & Darren Silcox [Repo](https://github.com/dwpdigitaltech/IIDB-Prototype)
 
 ### Repay a benefits debt
 
-Paul Smith [Previously Krishan Veerappa] / [Repo](https://github.com/paulmsmith/epayments)
+Paul Smith [Previously Krishan Veerappa] / [Repo](https://github.com/dwpdigitaltech/epayments)
 
 ### Find pension contact details
 
