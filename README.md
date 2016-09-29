@@ -67,7 +67,7 @@ Chris Ball
 
 ### [Jobseeker Services - Admin Interface](https://clean-test.herokuapp.com/)
 
-Richard Payne
+Gary Boyle / [Repo](https://github.com/dwpdigitaltech/ejs-prototype)
 
 ### Real Time Information - Admin Interface
 
